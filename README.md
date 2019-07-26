@@ -4,3 +4,5 @@ This is a Console Based Library Management System. This can be used for a school
 Admin is the part of the System;
       Id        =admin
       Password  =admin
+
+Note: script.py is the main module.
